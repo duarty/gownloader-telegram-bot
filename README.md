@@ -1,2 +1,2 @@
 # youtube-gownloader
-download youtube videos app in golang
+A bot to download twitter, instagram and YT videos app in golang
